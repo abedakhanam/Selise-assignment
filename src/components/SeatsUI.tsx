@@ -84,7 +84,7 @@ export default function SeatsUI() {
                     className={`w-16 h-16 border rounded-lg flex items-center justify-center font-medium text-sm ${
                       seat.bookings?.[currentTime]
                         ? "bg-gray-400 text-white cursor-not-allowed"
-                        : "bg-indigo-400 text-white hover:bg-green-600"
+                        : "bg-indigo-400 text-white hover:bg-indigo-600"
                     }`}
                     onClick={() => {
                       if (seat.bookings?.[currentTime]) {
