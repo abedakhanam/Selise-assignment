@@ -2,7 +2,8 @@
 
 This application is designed for managing bus seat bookings. It provides two modes of operation: Admin Mode and User Mode. The Admin Mode allows administrators to manage and view seat details, while User Mode enables customers to book seats for a specific time and destination.
 
-##Netlify link:
+## Netlify link
+
   https://unrivaled-florentine-a0892f.netlify.app/ or
   https://673f15182a319300083110c7--unrivaled-florentine-a0892f.netlify.app/
 
